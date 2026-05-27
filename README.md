@@ -1,8 +1,10 @@
 # Presentació 🖥️
 
+Hola!! Sóc en Biel Batalla, i aquests són tots els projectes que he treballat en tot el curs. 📄
+
 ![gif](https://media.tenor.com/iWzBPpxtS10AAAAi/birbhaus-work-work-work.gif)
 
-Hola!! Sóc en Biel Batalla, i aquests són tots els projectes que he treballat en tot el curs. 📄
+## Projectes del Curs
 
 - [Projecte02](https://github.com/batallaa/Projecte2)
 - [Projecte03](https://github.com/batallaa/Projecte-3)
