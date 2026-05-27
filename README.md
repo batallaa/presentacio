@@ -2,7 +2,7 @@
 
 Hola!! Sóc en Biel Batalla, i aquests són tots els projectes que he treballat en tot el curs. 📄
 
-- [Projecte02](/Projecte2)
+- [Projecte02](https://github.com/batallaa/Projecte2)
 - [Projecte03](/Projecte03)
 - [Projecte04](/Projecte-04)
 - [Projecte05](/projecte5-batallaa)
