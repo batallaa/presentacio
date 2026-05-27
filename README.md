@@ -198,8 +198,8 @@ GitHub ha estat la eina central per documentar el procés:
 
 ### Exemple real de gestió d'un imprevist
 
-> **[Afegir aquí un exemple real viscut:]**
-> Durant el Projecte [X], una tasca que inicialment semblava senzilla (per exemple, configurar [Y]) es va complicar perquè [motiu]. Vaig haver de [acció presa], cosa que va suposar reorganitzar el Kanban i ajustar els terminis del Gantt. La solució final va ser [solució], i l'aprenentatge principal va ser [aprenentatge].
+> **[T10 P06](https://github.com/batallaa/projecte6-batallaa/tree/f215f53fe085ef3945e0273102108269658588a3/Tasques/T12)**
+> Durant el Projecte [06], una tasca que inicialment semblava senzilla que era el moodle, es va complicar perquè vam tindre una falla en les configuracions i data límit. Vaig haver de tornar a instal·lar i tornar a fer totes les configuracions del moodle junt amb la creació de cursos i exàmens, cosa que va suposar reorganitzar el Kanban i ajustar els terminis del Gantt.
 
 ---
 
