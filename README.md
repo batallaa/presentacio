@@ -132,6 +132,7 @@ El meu perfil de GitHub recull tot el treball realitzat durant el curs. Cada rep
 
 ### Projecte 07 🍉 — FoodLogístic S.A.: Modernització logística
 🔗 [github.com/batallaa/projecte-7-batallaa](https://github.com/batallaa/projecte-7-batallaa)
+🔗 [Foodlogistic](https://github.com/batallaa/Foodlogistic)
 
 - **Repte inicial:** FoodLogístic S.A. — empresa de distribució alimentària a Mataró, 35 treballadors i 25M€ de facturació — necessitava alta disponibilitat de fitxers i impressió, migració del correu al núvol, web corporativa legal i formació en LOPD. Treball en parella amb Pol Castaño.
 - **Solució proposada:** Servidors de fitxers i impressió en alta disponibilitat, migració a Microsoft 365, web corporativa compliant i vídeo formatiu LOPD per als empleats, amb pressupost i Gantt detallats.
