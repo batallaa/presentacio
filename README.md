@@ -60,10 +60,6 @@ El meu perfil de GitHub recull tot el treball realitzat durant el curs. Cada rep
 
 ---
 
-## 3. 🔍 Anàlisi dels Projectes
-
----
-
 ### Projecte 02 🔌 — Consultoria EverPia
 🔗 [github.com/batallaa/Projecte2](https://github.com/batallaa/Projecte2)
 
